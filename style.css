@@ -91,12 +91,6 @@ img {
   align-items: center;
 }
 
-.header__logo {
-}
-
-.header__nav {
-}
-
 .header__list {
   display: flex;
   gap: 30px;
@@ -115,9 +109,6 @@ img {
 
 .header__nav a:hover {
   opacity: 0.9;
-}
-
-.main {
 }
 
 /*- Welcome */
@@ -341,10 +332,7 @@ img {
 
   max-width: 880px;
 }
-.container {
-}
-.feedback__img {
-}
+
 .feedback__text {
   margin: 0;
   width: 370px;
@@ -448,24 +436,16 @@ img {
 .footer__link-web::before {
   content: url("./images/icons/global.svg");
 }
-.footer__nav {
-}
+
 .footer__list {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
-.footer__list-title {
-}
 
-.footer__inner_list {
-}
 .footer__list-item + .footer__list-item {
   margin-top: 15px;
 }
-.footer__socials {
-}
-.footer__socials-icons {
-}
+
 .footer__socials-link + .footer__socials-link {
   margin-left: 8px;
 }
